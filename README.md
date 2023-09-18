@@ -26,4 +26,5 @@ Here, Student/User can login and view room details and book hostel easily. User 
 Software Requirement: WAMP Server/XAMPP Server/MAMP Server/LAMP Server
 
 ## Snapshot
-![hostel](https://github.com/shuuuvo/hostel-php/assets/129393771/3985ea1d-e117-406f-85f1-4ea4f28b2b34)
+![hostel](https://github.com/shuuuvo/hostel-php/assets/129393771/2a7a3f18-a6ad-4876-acca-1399b79340fd)
+
